@@ -1,7 +1,7 @@
 This version log covers:
-- [1. The player's handbooks for The Toyota Wars and The Great Toyota War](#handbook)
-- [2. The game maps for The Toyota Wars and The Great Toyota War](#map)
-- [3. The online simulator for The Toyota Wars and The Great Toyota War](#simulator)
+- [1. The player's handbooks for The Toyota Wars: Opération Manta and The Great Toyota War](#handbook)
+- [2. The game maps for The Toyota Wars: Opération Manta and The Great Toyota War](#map)
+- [3. The online simulator for The Toyota Wars: Opération Manta and The Great Toyota War](#simulator)
 
 
 # Handbook
@@ -99,7 +99,7 @@ This version log covers:
 
 ## Simulator v1
 
-**Created Opération Manta [21-08-09]**
+**Created Opération Manta simulated game [21-08-09]**
 
 ## Simulator v2
 

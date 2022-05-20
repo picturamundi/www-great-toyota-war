@@ -1,8 +1,8 @@
-Contents
+This version log covers:
+- [1. The player's handbooks for The Toyota Wars and The Great Toyota War](#handbook)
+- [2. The game maps for The Toyota Wars and The Great Toyota War](#map)
+- [3. The online simulator for The Toyota Wars and The Great Toyota War](#simulator)
 
-[[toc]]
-
-----
 
 # Handbook
 
